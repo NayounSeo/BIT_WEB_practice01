@@ -1,4 +1,4 @@
-public class Game369 {
+/*public class Game369 {
 	public static void main(String[] args) {
 		is369();
 	}
@@ -16,10 +16,10 @@ public class Game369 {
 			if (rem2 == 3 ||rem2 == 6 || rem2 == 9 ) {
 				count++;
 			}
-			/*while (count) {
-				System.out.print("짝");
-				count--;
-			}*/ //이건 왜 또 파이썬....ㅋㅋㅋㅋㅋ
+			//while (count) {
+				//System.out.print("짝");
+				//count--;
+			//} //이건 왜 또 파이썬....ㅋㅋㅋㅋㅋ
 			if(count>0) {
 				System.out.print(i+" ");
 				while(count>0) {
@@ -30,4 +30,4 @@ public class Game369 {
 			}
 		}
 	}
-}
+}*/

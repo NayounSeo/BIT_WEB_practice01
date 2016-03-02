@@ -1,4 +1,4 @@
-public class Prob2 {
+/*public class Prob2 {
 	public static void main(String[] args) {
 		int i, j;
 		for (i=1; i<9; i++) {
@@ -8,4 +8,4 @@ public class Prob2 {
 			System.out.println();
 		}		
 	}
-}
+}*/
