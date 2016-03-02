@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class MultipleOfTree {
 	public static void main (String[] args) {
@@ -9,12 +9,13 @@ public class MultipleOfTree {
 		isThree(input);
 	}
 	
-	public static void isThree(int input) {
+	public void isThree(int input) {
 		//왜 static으로 바꿔야 하는지는 모르겠다.
+		 //static은 객체 없이 실행되는 것!
 		if (input%3 == 0) {
 			System.out.println("3의 배수입니다");
 		}else {
 			System.out.println("3의 배수가 아닙니다.");
 		}
 	}
-}
+}*/
